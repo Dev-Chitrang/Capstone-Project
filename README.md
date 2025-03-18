@@ -19,7 +19,7 @@ This project is an **AI-powered navigation assistance system** designed to help 
 ## 🛠️ Installation & Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/blind-navigation-assistance.git
-   cd blind-navigation-assistance
+   git clone https://github.com/Dev-Chitrang/Capstone-Project.git
+   cd Capstone-Project
 pip install -r requirements.txt
 python main.py
